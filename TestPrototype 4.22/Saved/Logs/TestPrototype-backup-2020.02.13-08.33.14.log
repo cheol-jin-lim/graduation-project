@@ -1,0 +1,1509 @@
+﻿Log file open, 02/13/20 17:11:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TestPrototype
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.374063
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: AMD Ryzen 5 2400G with Radeon Vega Graphics    , GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.13-08.11.44:904][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.13-08.11.44:904][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.13-08.11.44:906][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Saved/Config/Windows/Engine.ini]
+[2020.02.13-08.11.44:906][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.13-08.11.44:906][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.02.13-08.11.44:906][  0]LogConfig: Setting CVar [[r.EarlyZPass:2]]
+[2020.02.13-08.11.44:910][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:1]]
+[2020.02.13-08.11.44:910][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Saved/Config/Windows/Engine.ini]
+[2020.02.13-08.11.44:910][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Saved/Config/Windows/Engine.ini]
+[2020.02.13-08.11.44:910][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.13-08.11.44:910][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.13-08.11.44:910][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.13-08.11.44:910][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.13-08.11.44:910][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.13-08.11.44:910][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.13-08.11.44:910][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.13-08.11.44:910][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.13-08.11.44:910][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.13-08.11.44:910][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.13-08.11.44:910][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.13-08.11.44:910][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.13-08.11.44:910][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.13-08.11.44:910][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Saved/Config/Windows/Engine.ini]
+[2020.02.13-08.11.44:910][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.13-08.11.44:910][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.13-08.11.44:910][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.13-08.11.44:910][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.13-08.11.44:910][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.13-08.11.44:910][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.13-08.11.44:910][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.13-08.11.44:910][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.13-08.11.44:911][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.13-08.11.44:911][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.13-08.11.44:911][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.13-08.11.44:911][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.13-08.11.44:911][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.13-08.11.44:911][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Saved/Config/Windows/Engine.ini]
+[2020.02.13-08.11.44:911][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Saved/Config/Windows/Engine.ini]
+[2020.02.13-08.11.44:939][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Saved/Config/Windows/Scalability.ini]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Saved/Config/Windows/Scalability.ini]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Saved/Config/Windows/Scalability.ini]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Saved/Config/Windows/Scalability.ini]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Saved/Config/Windows/Scalability.ini]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Saved/Config/Windows/Scalability.ini]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.13-08.11.44:940][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.13-08.11.44:941][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.13-08.11.44:941][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.13-08.11.44:941][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.13-08.11.44:941][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.13-08.11.44:941][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.13-08.11.44:941][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.13-08.11.44:941][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.13-08.11.44:941][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.13-08.11.44:941][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Saved/Config/Windows/Scalability.ini]
+[2020.02.13-08.11.44:941][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.13-08.11.44:941][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.13-08.11.44:944][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.13-08.11.44:946][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.13-08.11.44:998][  0]LogHAL: Display: Platform has ~ 14 GB [14979080192 / 17179869184 / 14], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.13-08.11.45:001][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.02.13-08.11.45:001][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.13-08.11.45:003][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Saved/Config/Windows/Scalability.ini]
+[2020.02.13-08.11.45:003][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Saved/Config/Windows/Scalability.ini]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Saved/Config/Windows/Scalability.ini]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Saved/Config/Windows/Scalability.ini]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Saved/Config/Windows/Scalability.ini]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Saved/Config/Windows/Scalability.ini]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.13-08.11.45:004][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.13-08.11.45:005][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.13-08.11.45:005][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.13-08.11.45:005][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.13-08.11.45:005][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.13-08.11.45:005][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Saved/Config/Windows/Scalability.ini]
+[2020.02.13-08.11.45:005][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.13-08.11.45:005][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.13-08.11.45:005][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.13-08.11.45:015][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.13-08.11.45:015][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.13-08.11.45:015][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Saved/Config/Windows/Engine.ini]
+[2020.02.13-08.11.45:019][  0]LogInit: Computer: DESKTOP-Q03QOCV
+[2020.02.13-08.11.45:019][  0]LogInit: User: esse1
+[2020.02.13-08.11.45:019][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.02.13-08.11.45:019][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.13-08.11.45:021][  0]LogMemory: Memory total: Physical=14.0GB (14GB approx)
+[2020.02.13-08.11.45:021][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.13-08.11.45:021][  0]LogMemory: Process Physical Memory: 99.18 MB used, 99.18 MB peak
+[2020.02.13-08.11.45:021][  0]LogMemory: Process Virtual Memory: 93.10 MB used, 93.10 MB peak
+[2020.02.13-08.11.45:021][  0]LogMemory: Physical Memory: 3691.27 MB used,  10593.89 MB free, 14285.16 MB total
+[2020.02.13-08.11.45:021][  0]LogMemory: Virtual Memory: 4646.34 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2020.02.13-08.11.45:699][  0]LogInit: Using OS detected language (ko-KR).
+[2020.02.13-08.11.45:699][  0]LogInit: Using OS detected locale (ko-KR).
+[2020.02.13-08.11.45:710][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2020.02.13-08.11.45:981][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.13-08.11.46:223][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.13-08.11.46:223][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.13-08.11.50:361][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.13-08.11.50:361][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.13-08.11.50:456][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2020.02.13-08.11.50:456][  0]LogD3D11RHI:       2988/0/7142 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.02.13-08.11.50:459][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.13-08.11.50:459][  0]LogD3D11RHI:       0/0/7142 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.13-08.11.50:459][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.13-08.11.50:470][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.13-08.11.50:471][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.13-08.11.50:471][  0]LogWindows: EnumDisplayDevices:
+[2020.02.13-08.11.50:471][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2020.02.13-08.11.50:472][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:1)
+[2020.02.13-08.11.50:473][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2020.02.13-08.11.50:474][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2020.02.13-08.11.50:475][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.02.13-08.11.50:475][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2020.02.13-08.11.50:475][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.02.13-08.11.50:475][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.02.13-08.11.50:475][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2020.02.13-08.11.50:565][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.13-08.11.50:635][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.13-08.11.50:642][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.13-08.11.50:642][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.13-08.11.50:665][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.13-08.11.51:329][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.13-08.11.51:352][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.13-08.11.51:375][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.13-08.11.51:397][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.13-08.11.51:431][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.13-08.11.51:460][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.13-08.11.51:487][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.13-08.11.51:512][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.13-08.11.51:536][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.13-08.11.51:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.13-08.11.51:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.13-08.11.51:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.13-08.11.51:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.13-08.11.51:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.13-08.11.51:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.13-08.11.51:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.13-08.11.51:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.13-08.11.51:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.13-08.11.51:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.13-08.11.51:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.13-08.11.51:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.13-08.11.51:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.13-08.11.51:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.13-08.11.51:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.13-08.11.51:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.13-08.11.51:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.13-08.11.51:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.13-08.11.51:686][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.13-08.11.51:795][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.13-08.11.51:795][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.13-08.11.51:829][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.13-08.11.51:829][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.13-08.11.51:857][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.13-08.11.51:887][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.13-08.11.51:915][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.13-08.11.51:957][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.13-08.11.52:042][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.13-08.11.52:042][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.13-08.11.52:042][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.13-08.11.52:083][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.13-08.11.52:487][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (../../../../../../Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Intermediate/Shaders/WorkingDirectory/18576/).
+[2020.02.13-08.11.52:487][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/esse1/AppData/Local/Temp/UnrealShaderWorkingDir/2F059836435CA9891F7FA59CA31D9462/'.
+[2020.02.13-08.11.52:502][  0]LogXGEController: Cleaning working directory: C:/Users/esse1/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.02.13-08.11.52:503][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.13-08.11.52:505][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.13-08.11.52:505][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.13-08.11.56:108][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.13-08.11.56:318][  0]LogDerivedDataCache: Loaded boot cache 0.21s 71MB C:/Users/esse1/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.13-08.11.56:318][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/esse1/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.02.13-08.11.56:318][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.13-08.11.56:318][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.13-08.11.56:318][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.13-08.11.56:318][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.13-08.11.56:359][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.13-08.11.56:360][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.13-08.11.56:360][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.13-08.11.56:373][  0]LogDerivedDataCache: Using Local data cache path C:/Users/esse1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.13-08.11.56:373][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.13-08.11.56:373][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.13-08.11.56:413][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.13-08.11.56:447][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.13-08.11.56:472][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.13-08.11.57:005][  0]LogAssetRegistry: FAssetRegistry took 0.0520 seconds to start up
+[2020.02.13-08.11.57:946][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.13-08.11.58:715][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.13-08.11.58:715][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.13-08.11.58:715][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.13-08.11.58:715][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.13-08.11.58:716][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.13-08.11.58:855][  0]LogNetVersion: TestPrototype 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3781060556)
+[2020.02.13-08.12.01:388][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.082237 seconds
+[2020.02.13-08.12.01:398][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.02.13-08.12.01:398][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.02.13-08.12.01:398][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.13-08.12.08:486][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.13-08.12.08:519][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.13-08.12.08:985][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2020.02.13-08.12.08:986][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2020.02.13-08.12.09:039][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2020.02.13-08.12.09:057][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2020.02.13-08.12.09:826][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.13-08.12.10:350][  0]LogOcInput: OculusInput pre-init called
+[2020.02.13-08.12.11:705][  0]LogEngine: Initializing Engine...
+[2020.02.13-08.12.11:712][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.13-08.12.11:720][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.005 s
+[2020.02.13-08.12.12:310][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.13-08.12.12:499][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.13-08.12.12:690][  0]LogInit: XAudio2 using '스피커(High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.13-08.12.12:756][  0]LogInit: FAudioDevice initialized.
+[2020.02.13-08.12.12:756][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.13-08.12.12:840][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/esse1/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.13-08.12.12:848][  0]LogInit: Texture streaming: Enabled
+[2020.02.13-08.12.12:903][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.13-08.12.12:994][  0]LogInit: Transaction tracking system initialized
+[2020.02.13-08.12.13:205][  0]BlueprintLog: New page: 에디터 로드
+[2020.02.13-08.12.13:981][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2020.02.13-08.12.15:396][  0]LogFileCache: Scanning file cache for directory 'C:/Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Content/' took 0.03s
+[2020.02.13-08.12.15:396][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.13-08.12.15:398][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.13-08.12.16:768][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2020.02.13-08.12.16:770][  0]Cmd: MAP LOAD FILE="../../../../../../Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Content/UI/LoginScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.13-08.12.16:782][  0]LightingResults: New page: 라이팅 빌드
+[2020.02.13-08.12.16:813][  0]MapCheck: New page: 맵 체크
+[2020.02.13-08.12.16:813][  0]LightingResults: New page: 라이팅 빌드
+[2020.02.13-08.12.16:872][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.02.13-08.12.17:088][  0]LogAIModule: Creating AISystem for world LoginScene
+[2020.02.13-08.12.17:112][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.13-08.12.17:151][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.02.13-08.12.17:151][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.13-08.12.17:152][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.551ms.
+[2020.02.13-08.12.17:152][  0]LogFileHelpers: Loading map 'LoginScene' took 0.382
+[2020.02.13-08.12.17:596][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-08.12.17:609][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-08.12.17:617][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-08.12.17:625][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-08.12.17:686][  0]LogCollectionManager: Loaded 0 collections in 0.002756 seconds
+[2020.02.13-08.12.17:795][  0]LogFileCache: Scanning file cache for directory 'C:/Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Saved/Collections/' took 0.01s
+[2020.02.13-08.12.17:796][  0]LogFileCache: Scanning file cache for directory 'C:/Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Content/Developers/esse1/Collections/' took 0.01s
+[2020.02.13-08.12.17:796][  0]LogFileCache: Scanning file cache for directory 'C:/Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Content/Collections/' took 0.00s
+[2020.02.13-08.12.17:796][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.02.13-08.12.17:820][  0]LogContentBrowser: Native class hierarchy populated in 0.0156 seconds. Added 2732 classes and 659 folders.
+[2020.02.13-08.12.17:861][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.02.13-08.12.17:885][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-08.12.17:916][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-08.12.17:946][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-08.12.17:968][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-08.12.17:983][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-08.12.17:996][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-08.12.18:008][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-08.12.18:017][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-08.12.18:026][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-08.12.18:041][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-08.12.18:051][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-08.12.18:063][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-08.12.18:076][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-08.12.18:090][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-08.12.18:106][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-08.12.18:114][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-08.12.18:150][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-08.12.18:164][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-08.12.18:172][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-08.12.18:180][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-08.12.18:194][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-08.12.18:208][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-08.12.18:221][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-08.12.18:237][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-08.12.18:254][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-08.12.18:270][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.13-08.12.18:616][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.02.13-08.12.18:678][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2020.02.13-08.12.19:240][  0]LogSlate: Took 0.014628 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.13-08.12.19:270][  0]LogSlate: Took 0.026391 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2020.02.13-08.12.19:289][  0]LogSlate: Took 0.019024 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2020.02.13-08.12.19:299][  0]LogSlate: Took 0.009555 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.13-08.12.19:324][  0]LogSlate: Took 0.011299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.13-08.12.19:624][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.02.13-08.12.19:881][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.02.13-08.12.19:881][  0]LogLoad: (Engine Initialization) Total time: 43.74 seconds
+[2020.02.13-08.12.19:881][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.13-08.12.19:979][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.13-08.12.20:062][  0]LogSlate: Took 0.013334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.13-08.12.20:232][  1]LogAssetRegistry: Asset discovery search completed in 23.2527 seconds
+[2020.02.13-08.12.20:234][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.02.13-08.12.20:234][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000099 seconds (updated 0 objects)
+[2020.02.13-08.12.20:928][ 69]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.13-08.12.24:175][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-08.12.27:708][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-08.12.37:425][721]LogAIModule: Creating AISystem for world GameScene
+[2020.02.13-08.12.37:487][721]LogAssetEditorManager: Opening Asset editor for World /Game/UI/GameScene.GameScene
+[2020.02.13-08.12.37:518][721]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.02.13-08.12.37:520][721]Cmd: MAP LOAD FILE="../../../../../../Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Content/UI/GameScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.13-08.12.37:520][721]LightingResults: New page: 라이팅 빌드
+[2020.02.13-08.12.37:520][721]LoadErrors: New page: 맵 로드중: GameScene.umap
+[2020.02.13-08.12.37:521][721]MapCheck: New page: 맵 체크
+[2020.02.13-08.12.37:521][721]LightingResults: New page: 라이팅 빌드
+[2020.02.13-08.12.37:547][721]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.02.13-08.12.37:681][721]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.13-08.12.37:709][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.02.13-08.12.37:778][721]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.13-08.12.37:779][721]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.197ms.
+[2020.02.13-08.12.37:779][721]LogFileHelpers: Loading map 'GameScene' took 0.260
+[2020.02.13-08.12.37:887][722]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' was requested. Font: '/Engine/EngineFonts/Faces/RobotoRegular.RobotoRegular', Character: '라 (U+b77c)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2020.02.13-08.12.37:889][722]LogSlate: Took 0.001639 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2020.02.13-08.12.47:422][531]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Characters/UnrealBasicCharacter/Character_BP.Character_BP
+[2020.02.13-08.12.48:039][531]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.02.13-08.12.49:249][531]LogSlate: Took 0.006795 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.13-08.12.49:595][532]LogSlate: Took 0.007413 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.13-08.12.52:041][671]LogSlate: Window 'Character_BP' being destroyed
+[2020.02.13-08.12.53:645][801]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Characters/UnrealBasicCharacter/MyGameMode.MyGameMode
+[2020.02.13-08.14.29:444][856]LogSlate: Window 'MyGameMode' being destroyed
+[2020.02.13-08.14.30:982][977]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Characters/UnrealBasicCharacter/BombCharacter_BP.BombCharacter_BP
+[2020.02.13-08.14.57:134][604]BlueprintLog: New page: BombCharacter_BP 컴파일
+[2020.02.13-08.14.57:394][604]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2020.02.13-08.14.58:028][621]LogSavePackage: Moving '../../../../../../Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Saved/BombCharacter_BP6EF519204093A659DB1188AE9B0A4B78.tmp' to '../../../../../../Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Content/Characters/UnrealBasicCharacter/BombCharacter_BP.uasset'
+[2020.02.13-08.14.58:735][666]LogSlate: Window 'BombCharacter_BP' being destroyed
+[2020.02.13-08.14.59:537][745]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.02.13-08.14.59:567][745]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/UI/GameScene.GameScene:PersistentLevel' has LevelScriptBlueprint '/Game/UI/GameScene.GameScene:PersistentLevel.GameScene' with GeneratedClass '/Game/UI/GameScene.GameScene_C' with ClassGeneratedBy '/Game/UI/GameScene.GameScene:PersistentLevel.GameScene'
+[2020.02.13-08.14.59:569][745]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2020.02.13-08.14.59:588][745]LogPlayLevel: [PlayLevel] Compiling MyGameMode before play...
+[2020.02.13-08.14.59:645][745]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.02.13-08.14.59:645][745]LogPlayLevel: PlayLevel: Blueprint regeneration took 75 ms (1 blueprints)
+[2020.02.13-08.14.59:647][745]PIE: New page: PIE 세션: GameScene (2020. 2. 14. 오전 2:14:59)
+[2020.02.13-08.14.59:664][745]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_GameScene
+[2020.02.13-08.14.59:689][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024697s)
+[2020.02.13-08.14.59:689][745]LogAIModule: Creating AISystem for world GameScene
+[2020.02.13-08.14.59:689][745]LogPlayLevel: PIE: World Init took: (0.000618s)
+[2020.02.13-08.14.59:689][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/GameScene.GameScene to /Game/UI/UEDPIE_0_GameScene.GameScene (0.025763s)
+[2020.02.13-08.14.59:718][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.02.13-08.14.59:842][745]LogInit: XAudio2 using '스피커(High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.13-08.14.59:879][745]LogInit: FAudioDevice initialized.
+[2020.02.13-08.14.59:925][745]LogLoad: Game class is 'MyGameMode_C'
+[2020.02.13-08.14.59:932][745]LogWorld: Bringing World /Game/UI/UEDPIE_0_GameScene.GameScene up for play (max tick rate 0) at 2020.02.13-17.14.59
+[2020.02.13-08.14.59:953][745]LogWorld: Bringing up level for play took: 0.025076
+[2020.02.13-08.14.59:985][745]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.02.13-08.14.59:997][745]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.02.13-08.14.59:998][745]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.02.13-08.15.00:005][745]LogBlueprintUserMessages: [Character_BP2_2] 100.0
+[2020.02.13-08.15.00:007][745]LogBlueprintUserMessages: [Character_BP_2] 100.0
+[2020.02.13-08.15.00:009][745]LogBlueprintUserMessages: [Character_BP_C_0] 100.0
+[2020.02.13-08.15.00:009][745]PIE: /Game/UI/UEDPIE_0_GameScene 에 대한 에디터에서 플레이 시작 시간: -0.176
+[2020.02.13-08.15.00:010][745]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/UI/GameScene.GameScene:PersistentLevel' has LevelScriptBlueprint '/Game/UI/GameScene.GameScene:PersistentLevel.GameScene' with GeneratedClass '/Game/UI/GameScene.GameScene_C' with ClassGeneratedBy '/Game/UI/GameScene.GameScene:PersistentLevel.GameScene'
+[2020.02.13-08.15.00:413][746]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.00:417][746]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.00:452][747]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.052015 > MaxSimulationTimeStep (0.050) for 'RollerCharacter_BP2_2', movement 'Walking'
+[2020.02.13-08.15.00:453][747]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.056223 > MaxSimulationTimeStep (0.050) for 'Character_BP_2', movement 'Walking'
+[2020.02.13-08.15.00:453][747]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.071654 > MaxSimulationTimeStep (0.050) for 'BombCharacter_BP2_5', movement 'Walking'
+[2020.02.13-08.15.00:453][747]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.00:454][747]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.00:455][747]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.00:456][747]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.00:607][760]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.00:648][763]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.00:917][793]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.00:935][795]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.00:997][802]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.01:007][803]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.01:138][818]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.01:194][824]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.01:361][841]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.01:427][848]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.01:487][854]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.01:581][862]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.01:613][865]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.01:711][874]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.01:879][894]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.01:953][903]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.01:962][904]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.02:004][909]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.02:190][930]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.02:234][935]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.02:419][957]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.02:520][969]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.02:553][973]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.02:570][975]LogBlueprintUserMessages: [Character_BP2_2] 80.0
+[2020.02.13-08.15.02:587][977]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.02:701][990]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.02:803][  2]LogBlueprintUserMessages: [BombCharacter_BP_5] 80.0
+[2020.02.13-08.15.02:830][  5]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.02:914][ 15]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.03:002][ 25]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.03:048][ 30]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.03:114][ 38]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.03:131][ 40]LogBlueprintUserMessages: [BombCharacter_BP2_5] 80.0
+[2020.02.13-08.15.03:160][ 43]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.03:161][ 43]LogBlueprintUserMessages: [BombCharacter_BP_5] 60.0
+[2020.02.13-08.15.03:293][ 59]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.03:460][ 79]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.03:502][ 84]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.03:526][ 87]LogBlueprintUserMessages: [Character_BP_2] 80.0
+[2020.02.13-08.15.03:560][ 91]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.03:568][ 92]LogBlueprintUserMessages: [Character_BP2_2] 60.0
+[2020.02.13-08.15.03:635][100]LogBlueprintUserMessages: [BombCharacter_BP2_5] 60.0
+[2020.02.13-08.15.03:660][103]LogBlueprintUserMessages: [BombCharacter_BP_5] 40.0
+[2020.02.13-08.15.03:752][114]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.03:894][131]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.03:927][135]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.03:993][143]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.04:001][144]LogBlueprintUserMessages: [Character_BP_2] 60.0
+[2020.02.13-08.15.04:010][145]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.04:051][150]LogBlueprintUserMessages: [Character_BP2_2] 40.0
+[2020.02.13-08.15.04:121][158]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.04:138][160]LogBlueprintUserMessages: [BombCharacter_BP2_5] 40.0
+[2020.02.13-08.15.04:164][163]LogBlueprintUserMessages: [BombCharacter_BP_5] 20.0
+[2020.02.13-08.15.04:248][173]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.04:365][187]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.04:415][193]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.04:492][202]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.04:510][204]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.04:581][212]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.04:640][219]LogBlueprintUserMessages: [BombCharacter_BP2_5] 20.0
+[2020.02.13-08.15.04:656][221]LogBlueprintUserMessages: [Character_BP2_2] 20.0
+[2020.02.13-08.15.04:665][222]LogBlueprintUserMessages: [BombCharacter_BP_5] 0.0
+[2020.02.13-08.15.04:790][237]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.04:865][246]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.04:907][251]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.05:011][263]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.05:019][264]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.05:100][272]LogBlueprintUserMessages: [Character_BP_2] 40.0
+[2020.02.13-08.15.05:146][277]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.05:176][280]LogBlueprintUserMessages: [Character_BP2_2] 0.0
+[2020.02.13-08.15.05:176][280]LogBlueprintUserMessages: [Character_BP2_2] AI
+[2020.02.13-08.15.05:303][293]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.05:402][303]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.05:453][308]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.05:560][318]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.05:681][331]LogBlueprintUserMessages: [BombCharacter_BP2_5] 0.0
+[2020.02.13-08.15.05:734][337]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.05:823][347]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.05:853][350]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.05:932][359]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.06:029][370]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.06:038][371]LogBlueprintUserMessages: [BombCharacter_BP2_5] -20.0
+[2020.02.13-08.15.06:185][388]LogBlueprintUserMessages: [BombCharacter_BP2_5] -40.0
+[2020.02.13-08.15.06:219][392]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.06:285][400]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.06:347][407]LogBlueprintUserMessages: [BombCharacter_BP2_5] -60.0
+[2020.02.13-08.15.06:407][413]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.06:454][417]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.06:501][421]LogBlueprintUserMessages: [BombCharacter_BP2_5] -80.0
+[2020.02.13-08.15.06:533][424]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.06:669][440]LogBlueprintUserMessages: [BombCharacter_BP2_5] -100.0
+[2020.02.13-08.15.06:746][449]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.06:832][458]LogBlueprintUserMessages: [BombCharacter_BP2_5] -120.0
+[2020.02.13-08.15.06:862][461]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.06:900][465]LogBlueprintUserMessages: [BombCharacter_BP_5] -20.0
+[2020.02.13-08.15.06:937][469]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.07:011][476]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.07:121][484]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.07:171][490]LogBlueprintUserMessages: [Character_BP_C_1] 100.0
+[2020.02.13-08.15.07:231][497]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.07:307][506]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.07:468][525]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.07:468][525]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.07:678][550]LogBlueprintUserMessages: [BombCharacter_BP2_5] -140.0
+[2020.02.13-08.15.07:686][551]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.07:712][554]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.07:797][564]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.07:814][566]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.07:872][573]LogBlueprintUserMessages: [RollerCharacter_BP_5] 80.0
+[2020.02.13-08.15.08:023][591]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.08:032][592]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.08:199][611]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.08:208][612]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.08:312][623]LogBlueprintUserMessages: [BombCharacter_BP2_5] -160.0
+[2020.02.13-08.15.08:313][623]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.08:345][627]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.08:440][638]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.08:604][650]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.08:654][653]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.08:654][653]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.08:666][654]LogBlueprintUserMessages: [BombCharacter_BP2_5] -180.0
+[2020.02.13-08.15.08:863][667]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.08:899][669]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.08:915][670]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.09:025][676]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.09:102][680]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.09:249][688]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.09:362][694]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.09:400][696]LogBlueprintUserMessages: [BombCharacter_BP2_5] -200.0
+[2020.02.13-08.15.09:416][697]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.09:451][699]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.09:487][701]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.09:545][704]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.09:601][707]LogBlueprintUserMessages: [BombCharacter_BP2_5] -220.0
+[2020.02.13-08.15.09:661][710]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.09:797][717]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.09:817][718]LogBlueprintUserMessages: [BombCharacter_BP_5] -40.0
+[2020.02.13-08.15.09:859][720]LogBlueprintUserMessages: [RollerCharacter_BP_5] 60.0
+[2020.02.13-08.15.09:963][726]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.09:984][727]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.10:003][728]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.10:003][728]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.10:095][733]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.10:290][745]LogBlueprintUserMessages: [BombCharacter_BP2_5] -240.0
+[2020.02.13-08.15.10:363][750]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.10:429][755]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.10:429][755]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.10:430][755]LogBlueprintUserMessages: [BombCharacter_BP_5] -60.0
+[2020.02.13-08.15.10:448][756]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.10:463][757]LogBlueprintUserMessages: [RollerCharacter_BP_5] 40.0
+[2020.02.13-08.15.10:553][763]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.10:568][764]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.10:586][765]LogBlueprintUserMessages: [BombCharacter_BP2_5] -260.0
+[2020.02.13-08.15.10:810][779]LogBlueprintUserMessages: [BombCharacter_BP2_5] -280.0
+[2020.02.13-08.15.10:916][785]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.10:948][787]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.10:948][787]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.10:961][788]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.11:014][791]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.11:062][794]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.11:390][810]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.11:436][812]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.11:460][813]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.11:486][814]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.11:503][815]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.11:540][817]LogBlueprintUserMessages: [BombCharacter_BP2_5] -300.0
+[2020.02.13-08.15.11:640][822]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.11:642][822]LogBlueprintUserMessages: [BombCharacter_BP_5] -80.0
+[2020.02.13-08.15.11:659][823]LogBlueprintUserMessages: [RollerCharacter_BP_5] 20.0
+[2020.02.13-08.15.11:700][825]LogBlueprintUserMessages: [BombCharacter_BP2_5] -320.0
+[2020.02.13-08.15.11:843][832]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.11:907][835]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.11:972][838]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.11:996][839]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.12:061][842]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.12:085][843]LogBlueprintUserMessages: [BombCharacter_BP2_5] -340.0
+[2020.02.13-08.15.12:085][843]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.12:202][848]LogBlueprintUserMessages: [BombCharacter_BP2_5] -360.0
+[2020.02.13-08.15.12:321][853]LogBlueprintUserMessages: [BombCharacter_BP_5] -100.0
+[2020.02.13-08.15.12:346][854]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.12:368][855]LogBlueprintUserMessages: [RollerCharacter_BP_5] 0.0
+[2020.02.13-08.15.12:430][858]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.12:493][861]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.12:558][864]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.12:602][866]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.12:922][884]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.12:937][885]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.13:035][892]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.13:076][895]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.13:105][897]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.13:150][900]LogBlueprintUserMessages: [BombCharacter_BP_5] -120.0
+[2020.02.13-08.15.13:373][916]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.13:501][925]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.13:581][931]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.13:618][934]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.13:631][935]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.13:676][938]LogBlueprintUserMessages: [BombCharacter_BP_5] -140.0
+[2020.02.13-08.15.13:850][951]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.13:866][952]LogBlueprintUserMessages: [BombCharacter_BP2_5] -380.0
+[2020.02.13-08.15.13:987][961]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.14:056][966]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.14:116][971]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.14:166][976]LogBlueprintUserMessages: [BombCharacter_BP_5] -160.0
+[2020.02.13-08.15.14:212][981]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.14:367][999]LogBlueprintUserMessages: [BombCharacter_BP2_5] -400.0
+[2020.02.13-08.15.14:402][  3]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.14:431][  6]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.14:571][ 21]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.14:593][ 23]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.14:636][ 28]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/UI/GameScene.GameScene:PersistentLevel' has LevelScriptBlueprint '/Game/UI/GameScene.GameScene:PersistentLevel.GameScene' with GeneratedClass '/Game/UI/GameScene.GameScene_C' with ClassGeneratedBy '/Game/UI/GameScene.GameScene:PersistentLevel.GameScene'
+[2020.02.13-08.15.14:637][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-08.15.14:674][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-08.15.14:674][ 28]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/UI/GameScene.GameScene:PersistentLevel' has LevelScriptBlueprint '/Game/UI/GameScene.GameScene:PersistentLevel.GameScene' with GeneratedClass '/Game/UI/GameScene.GameScene_C' with ClassGeneratedBy '/Game/UI/GameScene.GameScene:PersistentLevel.GameScene'
+[2020.02.13-08.15.14:719][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-08.15.14:824][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   9.89ms
+[2020.02.13-08.15.14:847][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.02.13-08.15.15:554][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-08.15.15:712][109]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Characters/UnrealBasicCharacter/BombCharacter_BP.BombCharacter_BP
+[2020.02.13-08.15.32:422][169]BlueprintLog: New page: BombCharacter_BP 컴파일
+[2020.02.13-08.15.32:747][169]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2020.02.13-08.15.33:704][226]LogSlate: Window 'BombCharacter_BP' being destroyed
+[2020.02.13-08.15.34:712][333]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.02.13-08.15.34:744][333]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/UI/GameScene.GameScene:PersistentLevel' has LevelScriptBlueprint '/Game/UI/GameScene.GameScene:PersistentLevel.GameScene' with GeneratedClass '/Game/UI/GameScene.GameScene_C' with ClassGeneratedBy '/Game/UI/GameScene.GameScene:PersistentLevel.GameScene'
+[2020.02.13-08.15.34:744][333]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.13-08.15.34:744][333]PIE: New page: PIE 세션: GameScene (2020. 2. 14. 오전 2:15:34)
+[2020.02.13-08.15.34:744][333]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_GameScene
+[2020.02.13-08.15.34:770][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026128s)
+[2020.02.13-08.15.34:771][333]LogAIModule: Creating AISystem for world GameScene
+[2020.02.13-08.15.34:771][333]LogPlayLevel: PIE: World Init took: (0.000566s)
+[2020.02.13-08.15.34:771][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/GameScene.GameScene to /Game/UI/UEDPIE_0_GameScene.GameScene (0.026867s)
+[2020.02.13-08.15.34:801][333]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.02.13-08.15.34:908][333]LogInit: XAudio2 using '스피커(High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.13-08.15.34:941][333]LogInit: FAudioDevice initialized.
+[2020.02.13-08.15.34:970][333]LogLoad: Game class is 'MyGameMode_C'
+[2020.02.13-08.15.34:975][333]LogWorld: Bringing World /Game/UI/UEDPIE_0_GameScene.GameScene up for play (max tick rate 0) at 2020.02.13-17.15.34
+[2020.02.13-08.15.34:980][333]LogWorld: Bringing up level for play took: 0.008102
+[2020.02.13-08.15.34:994][333]LogBlueprintUserMessages: [Character_BP2_2] 100.0
+[2020.02.13-08.15.34:995][333]LogBlueprintUserMessages: [Character_BP_2] 100.0
+[2020.02.13-08.15.34:996][333]LogBlueprintUserMessages: [Character_BP_C_0] 100.0
+[2020.02.13-08.15.34:996][333]PIE: /Game/UI/UEDPIE_0_GameScene 에 대한 에디터에서 플레이 시작 시간: 0.811
+[2020.02.13-08.15.34:996][333]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/UI/GameScene.GameScene:PersistentLevel' has LevelScriptBlueprint '/Game/UI/GameScene.GameScene:PersistentLevel.GameScene' with GeneratedClass '/Game/UI/GameScene.GameScene_C' with ClassGeneratedBy '/Game/UI/GameScene.GameScene:PersistentLevel.GameScene'
+[2020.02.13-08.15.35:109][343]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.35:160][349]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.35:218][356]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.35:226][357]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.35:227][357]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.35:268][362]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.35:589][400]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.35:731][417]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.35:739][418]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.35:782][423]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.35:807][426]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.35:815][427]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.36:009][450]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.36:175][469]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.36:249][476]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.36:285][480]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.36:369][489]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.36:385][491]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.36:452][499]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.36:722][531]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.36:806][541]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.36:822][543]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.36:889][551]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.36:923][555]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.36:940][557]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.37:135][579]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.37:297][598]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.37:393][609]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.37:410][611]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.37:467][618]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.37:485][620]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.37:553][628]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.37:829][660]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.37:854][663]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.37:905][669]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.37:930][672]LogBlueprintUserMessages: [RollerCharacter_BP_5] 80.0
+[2020.02.13-08.15.37:982][678]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.37:991][679]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.37:999][680]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.38:292][710]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.38:302][711]LogBlueprintUserMessages: [BombCharacter_BP2_5] 80.0
+[2020.02.13-08.15.38:314][712]LogBlueprintUserMessages: [BombCharacter_BP2_5] 60.0
+[2020.02.13-08.15.38:346][715]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.38:430][723]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.38:478][728]LogBlueprintUserMessages: [BombCharacter_BP2_5] 40.0
+[2020.02.13-08.15.38:486][729]LogBlueprintUserMessages: [BombCharacter_BP2_5] 20.0
+[2020.02.13-08.15.38:514][732]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.38:523][733]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.38:532][734]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.38:802][759]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.38:847][763]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.38:966][774]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.38:990][776]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.39:021][779]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.39:112][788]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.39:222][798]LogBlueprintUserMessages: [RollerCharacter_BP_5] 60.0
+[2020.02.13-08.15.39:233][799]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.39:311][806]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.39:415][816]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.39:425][817]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.39:554][829]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.39:575][831]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.39:778][848]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.39:851][854]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.39:992][866]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.40:003][867]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.40:016][868]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.40:028][869]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.40:263][889]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.40:407][901]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.40:442][904]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.40:453][905]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.40:562][914]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.40:587][916]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.40:599][917]LogBlueprintUserMessages: [Character_BP2_2] 80.0
+[2020.02.13-08.15.40:600][917]LogBlueprintUserMessages: [RollerCharacter_BP_5] 40.0
+[2020.02.13-08.15.40:717][927]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.40:907][942]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.40:919][943]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.40:944][945]LogBlueprintUserMessages: [Character_BP2_2] 60.0
+[2020.02.13-08.15.40:978][948]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.41:076][955]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.41:117][958]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.41:286][970]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.41:501][985]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.41:515][986]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.41:543][988]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.41:557][989]LogBlueprintUserMessages: [RollerCharacter_BP_5] 20.0
+[2020.02.13-08.15.41:580][991]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.41:658][997]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.41:854][ 11]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.41:989][ 20]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.42:003][ 21]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.42:058][ 25]LogBlueprintUserMessages: [RollerCharacter_BP_5] 0.0
+[2020.02.13-08.15.42:105][ 28]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.42:120][ 29]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.42:317][ 43]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.42:425][ 50]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.42:459][ 52]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.42:605][ 62]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.42:678][ 67]LogBlueprintUserMessages: [Character_BP_2] 80.0
+[2020.02.13-08.15.42:690][ 68]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.42:732][ 71]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.42:828][ 78]LogBlueprintUserMessages: [Character_BP2_2] 40.0
+[2020.02.13-08.15.42:909][ 84]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.42:981][ 89]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.43:055][ 94]LogBlueprintUserMessages: [Character_BP_2] 60.0
+[2020.02.13-08.15.43:084][ 96]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.43:192][103]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.43:235][106]LogBlueprintUserMessages: [Character_BP2_2] 20.0
+[2020.02.13-08.15.43:278][109]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.43:383][116]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.43:535][126]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.43:535][126]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.43:727][138]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.43:858][147]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.43:870][148]LogBlueprintUserMessages: [Character_BP2_2] 0.0
+[2020.02.13-08.15.43:870][148]LogBlueprintUserMessages: [Character_BP2_2] AI
+[2020.02.13-08.15.43:952][154]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.43:952][154]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.43:952][154]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.44:330][187]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.44:384][192]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.44:478][200]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.44:533][204]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.44:554][206]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.44:818][230]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.44:852][233]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.44:947][242]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.45:049][251]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.45:125][257]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.45:403][279]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.45:415][280]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.45:536][290]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.45:536][290]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.45:646][299]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.45:862][316]LogBlueprintUserMessages: [Character_BP_C_1] 100.0
+[2020.02.13-08.15.45:890][318]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.45:921][320]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.45:962][323]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.45:986][325]LogBlueprintUserMessages: [BombCharacter_BP2_5] 0.0
+[2020.02.13-08.15.46:000][326]LogBlueprintUserMessages: [BombCharacter_BP2_5] -20.0
+[2020.02.13-08.15.46:128][336]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.46:170][339]LogBlueprintUserMessages: [BombCharacter_BP2_5] -40.0
+[2020.02.13-08.15.46:183][340]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.46:314][350]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.46:339][352]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.46:484][362]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.46:498][363]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.46:547][367]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.46:607][372]LogBlueprintUserMessages: [BombCharacter_BP2_5] -60.0
+[2020.02.13-08.15.46:608][372]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.46:761][384]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.46:815][388]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.46:966][398]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.46:984][399]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.47:123][407]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.47:205][412]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.47:237][414]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.47:255][415]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.47:530][436]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.47:578][440]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.47:589][441]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.47:663][447]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.47:687][449]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.47:765][454]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.48:069][473]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.48:084][474]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.48:127][477]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.48:141][478]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.48:172][480]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.48:270][487]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.48:384][496]LogBlueprintUserMessages: [Character_BP_C_1] 80.0
+[2020.02.13-08.15.48:588][511]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.48:630][514]LogBlueprintUserMessages: [Character_BP_C_0] 80.0
+[2020.02.13-08.15.48:631][514]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.48:631][514]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.48:660][516]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.48:693][518]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.48:694][518]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.49:065][545]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.49:078][546]LogBlueprintUserMessages: [Character_BP_2] 40.0
+[2020.02.13-08.15.49:125][549]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.49:140][550]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.49:140][550]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.49:153][551]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.49:198][554]LogBlueprintUserMessages: [Character_BP_C_0] 60.0
+[2020.02.13-08.15.49:278][559]LogBlueprintUserMessages: [Character_BP_C_1] 60.0
+[2020.02.13-08.15.49:279][559]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.49:582][581]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.49:600][582]LogBlueprintUserMessages: [Character_BP_2] 20.0
+[2020.02.13-08.15.49:640][585]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.49:641][585]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.49:698][589]LogBlueprintUserMessages: [Character_BP_C_0] 40.0
+[2020.02.13-08.15.49:698][589]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.49:698][589]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.49:883][602]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.50:088][617]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.50:131][620]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.50:178][623]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.50:193][624]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.50:207][625]LogBlueprintUserMessages: [Character_BP_C_0] 20.0
+[2020.02.13-08.15.50:222][626]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.50:266][629]LogBlueprintUserMessages: [Character_BP_2] 0.0
+[2020.02.13-08.15.50:266][629]LogBlueprintUserMessages: [Character_BP_2] PlayerTeam
+[2020.02.13-08.15.50:437][640]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.50:581][650]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.50:597][651]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.50:623][653]LogBlueprintUserMessages: [Character_BP_C_0] 0.0
+[2020.02.13-08.15.50:623][653]LogBlueprintUserMessages: [Character_BP_C_0] PlayerTeam
+[2020.02.13-08.15.50:665][656]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.50:704][659]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.50:999][676]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.51:039][678]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.51:063][679]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.51:104][681]LogBlueprintUserMessages: [RollerCharacter_BP_C_0] 80.0
+[2020.02.13-08.15.51:138][683]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.51:184][686]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.51:413][700]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.51:469][704]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.51:485][705]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.51:609][713]LogBlueprintUserMessages: [RollerCharacter_BP_C_0] 60.0
+[2020.02.13-08.15.51:655][716]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.51:700][719]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.51:835][728]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.52:024][740]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.52:056][742]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.52:070][743]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.52:116][746]LogBlueprintUserMessages: [RollerCharacter_BP_C_0] 40.0
+[2020.02.13-08.15.52:227][753]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.52:280][756]LogBlueprintUserMessages: [Character_BP_C_2] 100.0
+[2020.02.13-08.15.52:345][759]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.52:536][770]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.52:586][773]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.52:618][775]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.52:620][775]LogBlueprintUserMessages: [RollerCharacter_BP_C_0] 20.0
+[2020.02.13-08.15.52:744][782]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.52:860][788]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.53:064][796]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.53:109][798]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.53:133][799]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.53:135][799]LogBlueprintUserMessages: [RollerCharacter_BP_C_0] 0.0
+[2020.02.13-08.15.53:260][804]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.53:287][805]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.53:560][816]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.53:583][817]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.53:720][823]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.53:881][830]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.54:034][837]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.54:138][842]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.54:179][844]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.54:373][853]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.54:503][859]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.54:722][870]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.54:780][873]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.54:799][874]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.54:966][881]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.55:169][889]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.55:198][890]LogBlueprintUserMessages: Warning: Invalid object types
+[2020.02.13-08.15.55:225][891]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/UI/GameScene.GameScene:PersistentLevel' has LevelScriptBlueprint '/Game/UI/GameScene.GameScene:PersistentLevel.GameScene' with GeneratedClass '/Game/UI/GameScene.GameScene_C' with ClassGeneratedBy '/Game/UI/GameScene.GameScene:PersistentLevel.GameScene'
+[2020.02.13-08.15.55:225][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-08.15.55:304][891]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.13-08.15.55:304][891]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/UI/GameScene.GameScene:PersistentLevel' has LevelScriptBlueprint '/Game/UI/GameScene.GameScene:PersistentLevel.GameScene' with GeneratedClass '/Game/UI/GameScene.GameScene_C' with ClassGeneratedBy '/Game/UI/GameScene.GameScene:PersistentLevel.GameScene'
+[2020.02.13-08.15.55:354][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.13-08.15.55:396][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.02.13-08.15.55:418][892]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.02.13-08.15.56:454][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.13-08.15.56:623][  9]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Characters/UnrealBasicCharacter/BombCharacter_BP.BombCharacter_BP
+[2020.02.13-08.23.14:714][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.02.13-08.23.14:716][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameScene" FILE="../../../../../../Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Saved/Autosaves/Game/UI/GameScene_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.13-08.23.15:174][288]LogSavePackage: Moving '../../../../../../Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Saved/GameScene_Auto15ABA5E2E4A6506A60509F191B04F5CAC.tmp' to '../../../../../../Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Saved/Autosaves/Game/UI/GameScene_Auto1.umap'
+[2020.02.13-08.23.15:180][288]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/UI/GameScene' took 0.500
+[2020.02.13-08.23.15:180][288]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.500
+[2020.02.13-08.23.15:182][288]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/UnrealBasicCharacter/BombCharacter_BP] ([1] browsable assets)...
+[2020.02.13-08.23.15:195][288]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/UnrealBasicCharacter/BombCharacter_BP.BombCharacter_BP]
+[2020.02.13-08.23.15:195][288]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/UnrealBasicCharacter/BombCharacter_BP]
+[2020.02.13-08.23.15:324][288]LogSavePackage: Moving '../../../../../../Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Saved/BombCharacter_BP_Auto15229E8404559858C785895801A7EBB9B.tmp' to '../../../../../../Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Saved/Autosaves/Game/Characters/UnrealBasicCharacter/BombCharacter_BP_Auto1.uasset'
+[2020.02.13-08.23.15:327][288]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/UnrealBasicCharacter/MyGameMode] ([1] browsable assets)...
+[2020.02.13-08.23.15:327][288]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/UnrealBasicCharacter/MyGameMode]
+[2020.02.13-08.23.15:428][288]LogSavePackage: Moving '../../../../../../Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Saved/MyGameMode_Auto1690ADAB54092B54779633587A0C33F76.tmp' to '../../../../../../Users/esse1/OneDrive/바탕 화면/새 폴더/테스트/Saved/Autosaves/Game/Characters/UnrealBasicCharacter/MyGameMode_Auto1.uasset'
+[2020.02.13-08.23.15:431][288]LogFileHelpers: Auto-saving content packages took 0.250
+[2020.02.13-08.33.09:457][441]LogSlate: Window 'BombCharacter_BP' being destroyed
+[2020.02.13-08.33.09:461][441]LogSlate: Window 'BombCharacter_BP' being destroyed
+[2020.02.13-08.33.10:435][539]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2020.02.13-08.33.11:564][539]LogSlate: Window '콘텐츠 저장' being destroyed
+[2020.02.13-08.33.11:768][539]LogSlate: Window 'TestPrototype - 언리얼 에디터' being destroyed
+[2020.02.13-08.33.11:977][540]Cmd: QUIT_EDITOR
+[2020.02.13-08.33.12:107][540]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2020.02.13-08.33.12:125][540]LogExit: Preparing to exit.
+[2020.02.13-08.33.12:403][540]LogExit: Editor shut down
+[2020.02.13-08.33.12:403][540]LogExit: Transaction tracking system shut down
+[2020.02.13-08.33.12:801][540]LogExit: Object subsystem successfully closed.
+[2020.02.13-08.33.12:826][540]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.02.13-08.33.12:830][540]LogD3D11RHI: Shutdown
+[2020.02.13-08.33.12:830][540]LogD3D11RHI: CleanupD3DDevice
+[2020.02.13-08.33.12:831][540]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.02.13-08.33.12:831][540]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.13-08.33.12:831][540]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.02.13-08.33.12:831][540]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.13-08.33.12:831][540]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.02.13-08.33.12:831][540]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.13-08.33.12:951][540]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.02.13-08.33.13:039][540]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (648)
+[2020.02.13-08.33.13:039][540]LogModuleManager: Shutting down and abandoning module Voice (646)
+[2020.02.13-08.33.13:039][540]LogModuleManager: Shutting down and abandoning module BlueprintGraph (644)
+[2020.02.13-08.33.13:039][540]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2020.02.13-08.33.13:039][540]LogModuleManager: Shutting down and abandoning module SceneOutliner (640)
+[2020.02.13-08.33.13:039][540]LogModuleManager: Shutting down and abandoning module AddContentDialog (638)
+[2020.02.13-08.33.13:039][540]LogModuleManager: Shutting down and abandoning module WidgetCarousel (637)
+[2020.02.13-08.33.13:039][540]LogModuleManager: Shutting down and abandoning module EditorWidgets (634)
+[2020.02.13-08.33.13:039][540]LogModuleManager: Shutting down and abandoning module CollectionManager (632)
+[2020.02.13-08.33.13:040][540]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2020.02.13-08.33.13:040][540]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2020.02.13-08.33.13:040][540]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2020.02.13-08.33.13:047][540]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2020.02.13-08.33.13:047][540]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2020.02.13-08.33.13:047][540]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2020.02.13-08.33.13:047][540]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2020.02.13-08.33.13:047][540]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2020.02.13-08.33.13:047][540]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2020.02.13-08.33.13:049][540]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2020.02.13-08.33.13:049][540]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2020.02.13-08.33.13:049][540]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2020.02.13-08.33.13:049][540]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2020.02.13-08.33.13:049][540]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2020.02.13-08.33.13:049][540]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2020.02.13-08.33.13:049][540]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2020.02.13-08.33.13:052][540]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2020.02.13-08.33.13:052][540]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2020.02.13-08.33.13:056][540]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2020.02.13-08.33.13:056][540]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2020.02.13-08.33.13:056][540]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2020.02.13-08.33.13:056][540]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2020.02.13-08.33.13:056][540]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2020.02.13-08.33.13:056][540]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2020.02.13-08.33.13:056][540]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2020.02.13-08.33.13:056][540]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2020.02.13-08.33.13:057][540]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2020.02.13-08.33.13:057][540]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2020.02.13-08.33.13:057][540]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2020.02.13-08.33.13:057][540]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2020.02.13-08.33.13:057][540]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2020.02.13-08.33.13:057][540]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2020.02.13-08.33.13:057][540]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2020.02.13-08.33.13:057][540]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2020.02.13-08.33.13:057][540]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2020.02.13-08.33.13:057][540]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2020.02.13-08.33.13:057][540]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2020.02.13-08.33.13:057][540]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2020.02.13-08.33.13:057][540]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2020.02.13-08.33.13:057][540]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2020.02.13-08.33.13:057][540]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2020.02.13-08.33.13:057][540]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2020.02.13-08.33.13:057][540]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2020.02.13-08.33.13:057][540]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2020.02.13-08.33.13:057][540]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2020.02.13-08.33.13:059][540]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2020.02.13-08.33.13:066][540]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2020.02.13-08.33.13:066][540]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2020.02.13-08.33.13:066][540]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2020.02.13-08.33.13:069][540]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2020.02.13-08.33.13:069][540]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2020.02.13-08.33.13:069][540]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2020.02.13-08.33.13:069][540]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2020.02.13-08.33.13:069][540]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2020.02.13-08.33.14:097][540]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2020.02.13-08.33.14:097][540]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2020.02.13-08.33.14:097][540]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2020.02.13-08.33.14:097][540]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2020.02.13-08.33.14:097][540]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2020.02.13-08.33.14:097][540]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2020.02.13-08.33.14:099][540]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2020.02.13-08.33.14:099][540]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2020.02.13-08.33.14:099][540]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2020.02.13-08.33.14:099][540]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2020.02.13-08.33.14:099][540]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2020.02.13-08.33.14:099][540]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2020.02.13-08.33.14:101][540]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2020.02.13-08.33.14:102][540]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2020.02.13-08.33.14:102][540]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2020.02.13-08.33.14:102][540]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2020.02.13-08.33.14:102][540]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2020.02.13-08.33.14:102][540]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2020.02.13-08.33.14:102][540]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2020.02.13-08.33.14:107][540]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2020.02.13-08.33.14:107][540]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2020.02.13-08.33.14:109][540]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2020.02.13-08.33.14:109][540]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2020.02.13-08.33.14:154][540]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2020.02.13-08.33.14:154][540]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2020.02.13-08.33.14:157][540]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2020.02.13-08.33.14:165][540]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2020.02.13-08.33.14:165][540]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2020.02.13-08.33.14:165][540]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2020.02.13-08.33.14:165][540]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2020.02.13-08.33.14:169][540]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2020.02.13-08.33.14:171][540]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2020.02.13-08.33.14:171][540]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2020.02.13-08.33.14:171][540]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2020.02.13-08.33.14:176][540]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2020.02.13-08.33.14:176][540]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2020.02.13-08.33.14:176][540]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2020.02.13-08.33.14:176][540]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2020.02.13-08.33.14:176][540]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2020.02.13-08.33.14:176][540]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2020.02.13-08.33.14:176][540]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2020.02.13-08.33.14:176][540]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2020.02.13-08.33.14:176][540]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2020.02.13-08.33.14:176][540]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2020.02.13-08.33.14:177][540]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2020.02.13-08.33.14:177][540]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2020.02.13-08.33.14:177][540]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2020.02.13-08.33.14:177][540]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2020.02.13-08.33.14:177][540]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2020.02.13-08.33.14:177][540]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2020.02.13-08.33.14:177][540]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2020.02.13-08.33.14:177][540]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2020.02.13-08.33.14:177][540]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2020.02.13-08.33.14:177][540]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2020.02.13-08.33.14:177][540]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2020.02.13-08.33.14:177][540]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2020.02.13-08.33.14:177][540]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2020.02.13-08.33.14:177][540]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2020.02.13-08.33.14:180][540]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2020.02.13-08.33.14:336][540]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2020.02.13-08.33.14:338][540]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2020.02.13-08.33.14:338][540]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2020.02.13-08.33.14:338][540]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2020.02.13-08.33.14:338][540]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2020.02.13-08.33.14:338][540]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2020.02.13-08.33.14:338][540]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2020.02.13-08.33.14:338][540]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2020.02.13-08.33.14:338][540]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2020.02.13-08.33.14:338][540]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2020.02.13-08.33.14:339][540]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2020.02.13-08.33.14:339][540]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2020.02.13-08.33.14:339][540]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2020.02.13-08.33.14:339][540]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2020.02.13-08.33.14:339][540]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2020.02.13-08.33.14:339][540]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2020.02.13-08.33.14:339][540]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2020.02.13-08.33.14:339][540]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2020.02.13-08.33.14:339][540]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2020.02.13-08.33.14:339][540]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2020.02.13-08.33.14:339][540]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2020.02.13-08.33.14:339][540]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2020.02.13-08.33.14:339][540]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2020.02.13-08.33.14:339][540]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2020.02.13-08.33.14:339][540]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2020.02.13-08.33.14:339][540]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2020.02.13-08.33.14:339][540]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2020.02.13-08.33.14:339][540]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2020.02.13-08.33.14:339][540]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2020.02.13-08.33.14:339][540]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2020.02.13-08.33.14:339][540]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2020.02.13-08.33.14:339][540]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2020.02.13-08.33.14:339][540]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2020.02.13-08.33.14:339][540]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2020.02.13-08.33.14:339][540]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2020.02.13-08.33.14:339][540]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2020.02.13-08.33.14:339][540]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2020.02.13-08.33.14:341][540]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2020.02.13-08.33.14:341][540]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.02.13-08.33.14:341][540]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.02.13-08.33.14:341][540]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.02.13-08.33.14:341][540]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.02.13-08.33.14:341][540]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.02.13-08.33.14:341][540]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.02.13-08.33.14:341][540]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.02.13-08.33.14:342][540]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.02.13-08.33.14:342][540]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.02.13-08.33.14:342][540]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.02.13-08.33.14:342][540]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2020.02.13-08.33.14:342][540]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2020.02.13-08.33.14:342][540]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2020.02.13-08.33.14:342][540]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2020.02.13-08.33.14:342][540]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2020.02.13-08.33.14:342][540]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2020.02.13-08.33.14:342][540]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2020.02.13-08.33.14:344][540]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2020.02.13-08.33.14:344][540]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2020.02.13-08.33.14:344][540]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2020.02.13-08.33.14:344][540]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2020.02.13-08.33.14:344][540]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.02.13-08.33.14:344][540]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.02.13-08.33.14:344][540]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.02.13-08.33.14:445][540]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.02.13-08.33.14:545][540]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2020.02.13-08.33.14:545][540]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2020.02.13-08.33.14:545][540]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2020.02.13-08.33.14:545][540]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2020.02.13-08.33.14:545][540]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2020.02.13-08.33.14:545][540]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.02.13-08.33.14:545][540]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2020.02.13-08.33.14:545][540]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2020.02.13-08.33.14:545][540]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2020.02.13-08.33.14:547][540]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2020.02.13-08.33.14:547][540]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2020.02.13-08.33.14:547][540]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2020.02.13-08.33.14:547][540]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2020.02.13-08.33.14:549][540]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2020.02.13-08.33.14:550][540]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2020.02.13-08.33.14:550][540]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2020.02.13-08.33.14:550][540]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2020.02.13-08.33.14:550][540]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2020.02.13-08.33.14:550][540]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2020.02.13-08.33.14:551][540]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2020.02.13-08.33.14:551][540]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2020.02.13-08.33.14:551][540]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.02.13-08.33.14:551][540]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2020.02.13-08.33.14:551][540]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2020.02.13-08.33.14:551][540]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2020.02.13-08.33.14:551][540]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2020.02.13-08.33.14:551][540]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.02.13-08.33.14:551][540]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.02.13-08.33.14:551][540]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.02.13-08.33.14:553][540]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.02.13-08.33.14:553][540]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2020.02.13-08.33.14:553][540]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2020.02.13-08.33.14:553][540]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2020.02.13-08.33.14:557][540]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2020.02.13-08.33.14:559][540]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2020.02.13-08.33.14:559][540]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2020.02.13-08.33.14:560][540]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2020.02.13-08.33.14:561][540]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2020.02.13-08.33.14:562][540]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2020.02.13-08.33.14:562][540]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2020.02.13-08.33.14:564][540]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2020.02.13-08.33.14:564][540]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2020.02.13-08.33.14:570][540]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2020.02.13-08.33.14:570][540]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2020.02.13-08.33.14:577][540]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2020.02.13-08.33.14:577][540]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2020.02.13-08.33.14:578][540]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2020.02.13-08.33.14:578][540]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.02.13-08.33.14:578][540]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.02.13-08.33.14:579][540]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.02.13-08.33.14:579][540]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.02.13-08.33.14:579][540]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.02.13-08.33.14:579][540]LogModuleManager: Shutting down and abandoning module Core (174)
+[2020.02.13-08.33.14:579][540]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2020.02.13-08.33.14:579][540]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2020.02.13-08.33.14:579][540]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2020.02.13-08.33.14:579][540]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2020.02.13-08.33.14:579][540]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2020.02.13-08.33.14:579][540]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2020.02.13-08.33.14:583][540]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2020.02.13-08.33.14:583][540]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2020.02.13-08.33.14:583][540]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.02.13-08.33.14:645][540]LogDerivedDataCache: Shutdown
+[2020.02.13-08.33.14:645][540]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.02.13-08.33.14:645][540]LogXGEController: Cleaning working directory: C:/Users/esse1/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.02.13-08.33.14:646][540]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.02.13-08.33.14:646][540]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.02.13-08.33.14:646][540]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.02.13-08.33.14:646][540]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.02.13-08.33.14:646][540]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.02.13-08.33.14:646][540]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.02.13-08.33.14:647][540]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.02.13-08.33.14:647][540]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.02.13-08.33.14:647][540]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.02.13-08.33.14:647][540]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.02.13-08.33.14:647][540]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.02.13-08.33.14:647][540]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.02.13-08.33.14:647][540]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.02.13-08.33.14:647][540]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.02.13-08.33.14:647][540]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.02.13-08.33.14:647][540]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.02.13-08.33.14:647][540]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2020.02.13-08.33.14:648][540]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2020.02.13-08.33.14:648][540]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2020.02.13-08.33.14:648][540]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2020.02.13-08.33.14:648][540]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2020.02.13-08.33.14:648][540]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2020.02.13-08.33.14:649][540]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2020.02.13-08.33.14:649][540]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2020.02.13-08.33.14:650][540]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2020.02.13-08.33.14:650][540]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2020.02.13-08.33.14:655][540]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2020.02.13-08.33.14:655][540]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2020.02.13-08.33.14:655][540]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2020.02.13-08.33.14:655][540]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2020.02.13-08.33.14:655][540]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2020.02.13-08.33.14:655][540]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2020.02.13-08.33.14:655][540]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2020.02.13-08.33.14:655][540]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2020.02.13-08.33.14:655][540]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2020.02.13-08.33.14:655][540]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2020.02.13-08.33.14:655][540]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2020.02.13-08.33.14:655][540]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2020.02.13-08.33.14:655][540]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2020.02.13-08.33.14:655][540]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.02.13-08.33.14:655][540]LogHMD: Freeing OpenVRDLLHandle.
+[2020.02.13-08.33.14:655][540]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.02.13-08.33.14:655][540]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.02.13-08.33.14:655][540]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.02.13-08.33.14:655][540]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2020.02.13-08.33.14:655][540]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2020.02.13-08.33.14:656][540]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.02.13-08.33.14:658][540]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.02.13-08.33.14:669][540]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.02.13-08.33.14:669][540]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.02.13-08.33.14:669][540]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD2C52FDA-4D69-8AEF-7777-E6AA21B96048%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=62b01e2547ee3fd1a35374a1bee80015%7C42598ea451db4eb08580749ba3c9d9c7%7C9a509fb3-54c5-4a5a-93ee-8e0aefebce7e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.02.13-08.33.14:700][540]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.02.13-08.33.14:701][540]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.02.13-08.33.14:705][540]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.02.13-08.33.14:712][540]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.02.13-08.33.14:712][540]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.02.13-08.33.14:713][540]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.02.13-08.33.14:716][540]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.02.13-08.33.14:717][540]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.02.13-08.33.14:719][540]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.02.13-08.33.14:720][540]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.02.13-08.33.14:721][540]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.02.13-08.33.14:721][540]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.02.13-08.33.14:724][540]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.02.13-08.33.14:725][540]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.02.13-08.33.14:725][540]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.02.13-08.33.14:725][540]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.02.13-08.33.14:725][540]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.02.13-08.33.14:726][540]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.02.13-08.33.14:726][540]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.02.13-08.33.14:730][540]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.02.13-08.33.14:730][540]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.02.13-08.33.14:732][540]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.02.13-08.33.14:732][540]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.02.13-08.33.14:732][540]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.02.13-08.33.14:742][540]LogExit: Exiting.
+[2020.02.13-08.33.14:753][540]Log file closed, 02/13/20 17:33:14
